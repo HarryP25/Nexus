@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cato">
+  <rect width="64" height="64" rx="16" fill="#eafafc"/>
+  <path d="M47 20c-4-4-9-6-15-6-11 0-20 8-20 18s9 18 20 18c6 0 11-2 15-6" fill="none" stroke="#25a9c1" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="47" cy="20" r="4" fill="#166f98"/><circle cx="47" cy="44" r="4" fill="#166f98"/>
+</svg>
